@@ -1,0 +1,28 @@
+.count {
+
+    width: 250px;
+    height: 150px;
+    border: solid 2px blue;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 50px;
+
+}
+
+.btn {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.tow {
+    margin-left: 20px;
+}
+
+.counter {
+    margin-top: 20px;
+    background-color: cornflowerblue;
+    width: 230px;
+    margin-left: 5px;
+    font-size: 25px;
+    text-align: center;
+}

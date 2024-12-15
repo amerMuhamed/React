@@ -1,0 +1,21 @@
+.tim {
+    width: 150px;
+    height: 120px;
+    border: solid 2px blue;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+h1 {
+    background-color: #6495ed;
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+}
+
+.one {
+    width: 80px;
+    height: 39px;
+    margin: auto;
+}
